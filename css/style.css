@@ -1,0 +1,450 @@
+.row {
+    margin: 0;
+}
+
+.nogutter {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+
+/*header start*/
+.logo {
+    float: left;
+}
+
+.logo_content {
+    float: right;
+    margin-top: -12px;
+}
+
+.logo_content > ul > li {
+    list-style: none;
+
+}
+
+.logo_content > ul {
+    margin-left: -21%;
+    color: black;
+}
+
+.logo_content > ul > li > h5 {
+    font-weight: bold;
+    color: black;
+}
+
+.navbar-nav > li > a {
+    padding: 15px 26px;
+    margin: 10px 0px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: black !important;
+}
+
+.navbar-nav > li > a:hover {
+    border-bottom: 2px solid black;
+}
+
+.navbar-default {
+    border-radius: 0px;
+    box-shadow: none;
+    border: none;
+    background: none;
+}
+
+.navbar-nav > li > button {
+    margin: 15px 15px;
+    padding: 8px 30px;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: sans-serif;
+    border: 2px solid black;
+    border-radius: 100px;
+    background: white;
+}
+
+.navbar-nav > li > button > a {
+    color: rgba(43, 42, 44, 255);
+}
+
+.navbar-nav > li > button > a:hover {
+    text-decoration: none;
+}
+
+/*header start*/
+
+
+/*banner Start*/
+.border {
+    height: 1px;
+    background-color: #91888838;
+    margin-top: -2px;
+
+}
+
+.banner_content {
+    margin-top: 111px;
+}
+
+.banner_content > h2 {
+    font-size: 22pt;
+}
+
+.banner_content > h1 {
+    margin-top: 19px;
+}
+
+.banner_content > h1 {
+    font-weight: bold;
+    margin-top: -9px;
+    font-size: 32pt;
+}
+
+.banner_content > h5 {
+    font-size: 18pt;
+}
+
+.banner_content > ul {
+    margin-top: 27px;
+    margin-left: -45px;
+
+}
+
+.banner_content > ul > li {
+    list-style: none;
+    float: left;
+}
+
+.banner_content > ul > li > img {
+
+    height: 40px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.banner_button {
+    margin-top: 100px;
+
+}
+
+.banner_button > button {
+    padding: 8px 30px;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: sans-serif;
+    border: 2px solid black;
+    border-radius: 100px;
+    background: rgba(43, 42, 44, 255);
+}
+
+.banner_button > button > a {
+    color: white;
+}
+
+.banner_button > button > a:hover {
+    text-decoration: none;
+}
+
+
+.banner_img {
+    position: relative;
+}
+
+}
+
+/*banner End*/
+
+
+/*work start*/
+.work {
+    margin-top: 50px;
+}
+
+.switch > li > a {
+    color: #717072;
+    margin-left: 10px;
+}
+
+.switch > li > a:hover {
+    text-decoration: none;
+}
+
+.product {
+    margin-top: 30px;
+}
+
+.thumbnail {
+    padding: 0px;
+    border-radius: 11px;
+    margin-bottom: 47px;
+}
+
+.thumbnail > img {
+    width: 100%;
+}
+
+.projact {
+    margin: 0 auto;
+    width: 85%;
+}
+
+.caption > h2 {
+    font-size: 15px;
+    float: left;
+    font-weight: bold;
+    margin-top: 0px;
+}
+
+.caption > p {
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 0px;
+}
+
+/*work end*/
+
+
+/*about start*/
+.about {
+    margin-top: 100px;
+}
+
+.ab_back {
+    position: absolute;
+    left: 3%;
+    top: 31.5%;
+}
+
+.ab_im {
+    position: relative;
+}
+
+.ab_txt > h2 {
+    font-size: 37pt;
+    font-weight: bold;
+    color: rgba(43, 42, 44, 255);
+}
+
+.ab_txt > h1 {
+    margin-top: 25px;
+    font-size: 81pt;
+    font-weight: bold;
+    color: rgba(222, 222, 222, 255);
+}
+
+.ab_txt > p {
+    margin-top: 44px;
+}
+
+.about_button {
+    margin-top: 57px;
+
+}
+
+.about_button > button {
+    padding: 8px 30px;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: sans-serif;
+    border: 2px solid black;
+    border-radius: 100px;
+    background: rgba(43, 42, 44, 255);
+}
+
+.about_button > button > a {
+    color: white;
+}
+
+.about_button > button > a:hover {
+    text-decoration: none;
+}
+
+/*about end*/
+
+
+
+/*blk_bnr start*/
+.blk {
+    margin-top: 139px;
+}
+
+.blk_img {
+    position: relative;
+}
+
+.blk_bnr_bck {
+    position: absolute;
+    top: 0px;
+    height: 210px;
+    width: 97%;
+}
+
+.blk_txt {
+    position: absolute;
+    text-align: center;
+    top: 15%;
+}
+
+.blk_txt > p {
+    color: rgba(255, 255, 255, 255);
+    width: 61%;
+    margin: 0 auto;
+    line-height: 32px;
+    font-size: 13px;
+}
+
+.blk2 {
+    margin-top: -48px;
+    text-align: center;
+    line-height: 2px;
+}
+
+.blk2 > h2 {
+    font-weight: bold;
+    margin-top: 2px;
+}
+
+/*blk_bnr end*/
+
+
+/*post start*/
+.read {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.read > h1 {
+    font-weight: bold;
+}
+
+.post {
+    margin-top: 25px;
+}
+
+.post > img {
+    width: 100%;
+}
+
+.comment > h3 {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.comment > p {
+    color: rgba(113, 112, 114, 255);
+}
+
+.comment > button {
+    margin-top: 15px;
+    padding: 8px 30px;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: sans-serif;
+    border: 2px solid rgba(113, 112, 114, 255);
+    ;
+    border-radius: 100px;
+    background: white;
+}
+
+.comment > button > a {
+    color: rgba(113, 112, 114, 255);
+}
+
+.comment > button > a:hover {
+    text-decoration: none;
+}
+
+.calender {
+    position: absolute;
+    top: 5%;
+    padding: 6px;
+    width: 14%;
+    text-align: center;
+    background: #2b2a2c;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.see_more > a {
+    text-decoration: underline;
+    color: rgba(113, 112, 114, 255);
+}
+
+.see_more > a:hover {
+    background: #000000;
+    color: #ffffff;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/*post end*/
+
+
+/*fotter part start*/
+.fotter_part {
+    background-color: #2b2a2c;
+    height: 62px;
+}
+
+.left {
+    margin-top: 20px;
+}
+
+.left > p {
+    color: rgba(113, 112, 114, 255);
+    float: left;
+}
+
+.left > ul > li {
+    float: left;
+    margin-left: 20px;
+    list-style: none;
+}
+
+.left > ul > li > img {
+    height: 15px;
+    cursor: pointer;
+}
+
+.right {
+    margin-top: 20px;
+}
+
+.right > ul {
+    float: left;
+    margin-left: 30px;
+}
+
+.right > ul > li {
+    float: left;
+    list-style: none;
+    margin-left: 20px;
+
+}
+
+.right > ul > li > p {
+    color: rgba(113, 112, 114, 255);
+    cursor: pointer;
+}
+
+.right > button {
+    margin-left: 28px;
+    margin-top: -3px;
+    padding: 3px 15px;
+    border: 1px solid rgba(113, 112, 114, 255);
+    border-radius: 100px;
+    background: none;
+}
+
+.right > button > a {
+    color: rgba(113, 112, 114, 255);
+}
+
+.right > button > a:hover {
+    text-decoration: none;
+}
+
+/*fotter part end*/
+
+/*End*/
